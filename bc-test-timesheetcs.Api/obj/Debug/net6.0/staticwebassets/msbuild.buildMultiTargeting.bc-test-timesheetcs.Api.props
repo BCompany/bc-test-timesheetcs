@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bc-test-timesheetcs.Api.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\bin\Debug\net6.0\bc-test-timesheetcs.Domain.deps.json
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\bin\Debug\net6.0\bc-test-timesheetcs.Domain.dll
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\bin\Debug\net6.0\bc-test-timesheetcs.Domain.pdb
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\bc-test-timesheetcs.Domain.csproj.AssemblyReference.cache
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\bc-test-timesheetcs.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\bc-test-timesheetcs.Domain.AssemblyInfoInputs.cache
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\bc-test-timesheetcs.Domain.AssemblyInfo.cs
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\bc-test-timesheetcs.Domain.csproj.CoreCompileInputs.cache
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\bc-test-timesheetcs.Domain.dll
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\refint\bc-test-timesheetcs.Domain.dll
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\bc-test-timesheetcs.Domain.pdb
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Domain\obj\Debug\net6.0\ref\bc-test-timesheetcs.Domain.dll

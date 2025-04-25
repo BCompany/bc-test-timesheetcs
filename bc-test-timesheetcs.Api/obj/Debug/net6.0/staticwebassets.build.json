@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4R+CbR5f4VSMJ0NRGzer1rtW5QDUjiLMvVdl9hVy1DI=",
+  "Source": "bc-test-timesheetcs.Api",
+  "BasePath": "_content/bc-test-timesheetcs.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

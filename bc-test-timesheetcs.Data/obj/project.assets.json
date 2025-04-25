@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "bc-test-timesheetcs.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/bc-test-timesheetcs.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bc-test-timesheetcs.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bc-test-timesheetcs.Domain/1.0.0": {
+      "type": "project",
+      "path": "../bc-test-timesheetcs.Domain/bc-test-timesheetcs.Domain.csproj",
+      "msbuildProject": "../bc-test-timesheetcs.Domain/bc-test-timesheetcs.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "bc-test-timesheetcs.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Marcelo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\BCProjects\\bc-test-timesheetcs\\bc-test-timesheetcs.Data\\bc-test-timesheetcs.Data.csproj",
+      "projectName": "bc-test-timesheetcs.Data",
+      "projectPath": "C:\\BCProjects\\bc-test-timesheetcs\\bc-test-timesheetcs.Data\\bc-test-timesheetcs.Data.csproj",
+      "packagesPath": "C:\\Users\\Marcelo\\.nuget\\packages\\",
+      "outputPath": "C:\\BCProjects\\bc-test-timesheetcs\\bc-test-timesheetcs.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Marcelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\BCProjects\\bc-test-timesheetcs\\bc-test-timesheetcs.Domain\\bc-test-timesheetcs.Domain.csproj": {
+              "projectPath": "C:\\BCProjects\\bc-test-timesheetcs\\bc-test-timesheetcs.Domain\\bc-test-timesheetcs.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
