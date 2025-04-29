@@ -3,7 +3,7 @@ Teste para desenvolvedores CSharp - BCompany
 
 # Requisitos Funcionais
 
-Cadastrar colaborador
+Cadastrar colaborador  
 Registrar entrada e saída com ip do colaborador a cada lançamento
 Consultar horas trabalhadas por período
 Relatório periodo com: Total de horas /  Média diária / Horas extras (acima 8h)
