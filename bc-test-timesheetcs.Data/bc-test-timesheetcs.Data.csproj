@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\bc-test-timesheetcs.Api\bc-test-timesheetcs.Api.csproj" />
     <ProjectReference Include="..\bc-test-timesheetcs.Domain\bc-test-timesheetcs.Domain.csproj" />
   </ItemGroup>
 

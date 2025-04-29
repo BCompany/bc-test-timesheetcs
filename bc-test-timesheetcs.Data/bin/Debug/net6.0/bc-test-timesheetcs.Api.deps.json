@@ -6,13 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "bc-test-timesheetcs.Data/1.0.0": {
+      "bc-test-timesheetcs.Api/1.0.0": {
         "dependencies": {
-          "bc-test-timesheetcs.Api": "1.0.0",
-          "bc-test-timesheetcs.Domain": "1.0.0"
+          "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
-          "bc-test-timesheetcs.Data.dll": {}
+          "bc-test-timesheetcs.Api.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
@@ -61,27 +60,11 @@
             "fileVersion": "6.2.3.0"
           }
         }
-      },
-      "bc-test-timesheetcs.Api/1.0.0": {
-        "dependencies": {
-          "Swashbuckle.AspNetCore": "6.2.3"
-        },
-        "runtime": {
-          "bc-test-timesheetcs.Api.dll": {}
-        }
-      },
-      "bc-test-timesheetcs.Domain/1.0.0": {
-        "dependencies": {
-          "bc-test-timesheetcs.Api": "1.0.0"
-        },
-        "runtime": {
-          "bc-test-timesheetcs.Domain.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "bc-test-timesheetcs.Data/1.0.0": {
+    "bc-test-timesheetcs.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -127,16 +110,6 @@
       "sha512": "sha512-bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-    },
-    "bc-test-timesheetcs.Api/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "bc-test-timesheetcs.Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

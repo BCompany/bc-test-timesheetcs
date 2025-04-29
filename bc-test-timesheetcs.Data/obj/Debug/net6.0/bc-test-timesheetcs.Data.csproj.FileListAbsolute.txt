@@ -13,3 +13,10 @@ C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\obj\Debug\net6.0\bc-t
 C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\obj\Debug\net6.0\refint\bc-test-timesheetcs.Data.dll
 C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\obj\Debug\net6.0\bc-test-timesheetcs.Data.pdb
 C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\obj\Debug\net6.0\ref\bc-test-timesheetcs.Data.dll
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\bin\Debug\net6.0\bc-test-timesheetcs.Api.deps.json
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\bin\Debug\net6.0\bc-test-timesheetcs.Api.runtimeconfig.json
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\bin\Debug\net6.0\appsettings.Development.json
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\bin\Debug\net6.0\appsettings.json
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\bin\Debug\net6.0\bc-test-timesheetcs.Api.exe
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\bin\Debug\net6.0\bc-test-timesheetcs.Api.dll
+C:\BCProjects\bc-test-timesheetcs\bc-test-timesheetcs.Data\bin\Debug\net6.0\bc-test-timesheetcs.Api.pdb
