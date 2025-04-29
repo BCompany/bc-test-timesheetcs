@@ -35,12 +35,12 @@ Método	Endpoint	Descrição
 * TSM_Company - dados da empresa, no teste, deve ser usado so codigo de empresa 1
 * TSM_Employee - armazena dados de colaboradores
 * TSM_Entrie - armazena entradas e saidas
-* 
+  
 O campo typ_entrie deve armazenat CHEKOUT OU CHECKIN DE de acordo com o ipo de lançamento
 
-** Dados de acesso ao banco de dados: Server: bcompany-homo.ddns.net,1441 / User: devtest / Pwd: Devtest02289!! / Databse: BC_TestCs **
+**Dados de acesso ao banco de dados: Server: bcompany-homo.ddns.net,1441 / User: devtest / Pwd: Devtest02289!! / Databse: BC_TestCs**
 
-** Modelo de dados **
+**Modelo de dados**
 
 ![DatabaseER](https://github.com/user-attachments/assets/19c2fada-a5a8-4266-b996-f2406320a710)
 
