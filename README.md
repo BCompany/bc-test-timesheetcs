@@ -5,37 +5,42 @@ Teste para desenvolvedores CSharp - BCompany
 
 * Cadastrar colaborador  
 * Registrar entrada e saída com ip do colaborador a cada lançamento  
-Consultar horas trabalhadas por período  
-Relatório periodo com: Total de horas /  Média diária / Horas extras (acima 8h)  
-Relatório de dias com inconsistências/alertas  (pontos não marcados)  
+* Consultar horas trabalhadas por período  
+* Relatório periodo com: Total de horas /  Média diária / Horas extras (acima 8h)  
+* Relatório de dias com inconsistências/alertas  (pontos não marcados)  
 
 
 # Requisitos Técnicos
 
-.NET Core (>= 6)  
-Separação clara de responsabilidades (Clean Architecture ou similar)  
-Uso de Interfaces  
-Padrões de projeto (como Repository, Service, DTOs, Mapper, SAGA)  
-Verbos REST bem definidos  
-Tratamento de erros com retorno adequados  
-Persistir colaborador, entrada e saída em banco de dados conforme abaixo - usar ADO ou ORM de preferência
+* .NET Core (>= 6)  
+* Separação clara de responsabilidades (Clean Architecture ou similar)  
+* Uso de Interfaces  
+* Padrões de projeto (como Repository, Service, DTOs, Mapper, SAGA)  
+* Verbos REST bem definidos  
+* Tratamento de erros com retorno adequados  
+* Persistir colaborador, entrada e saída em banco de dados conforme abaixo - usar ADO ou ORM de preferência
 
 # Sugestão de EndPoints
 
 Método	Endpoint	Descrição  
-POST	/api/employees	Criar colaborador  
-POST	/api/timesheet/clockopen	Registrar entrada  
-POST	/api/timesheet/clockin	Registrar entrada  
-POST	/api/timesheet/clockout	Registrar saída  
-GET	/api/timesheet/report	Obter relatório por período  
-GET /api/timesheet/alerts  
+* POST	/api/employees	Criar colaborador  
+* POST	/api/timesheet/clockin	Registrar entrada  
+* POST	/api/timesheet/clockout	Registrar saída  
+* GET	/api/timesheet/report	Obter relatório por período  
+* GET /api/timesheet/alerts  
 
 
 # Banco de Dados
 
-TSM_Employee - armazena dados de colaboradores
-TSM_Entrie - armazena entradas e saidas
+* TSM_Company - dados da empresa, no teste, deve ser usado so codigo de empresa 1
+* TSM_Employee - armazena dados de colaboradores
+* TSM_Entrie - armazena entradas e saidas
+* 
 O campo typ_entrie deve armazenat CHEKOUT OU CHECKIN DE de acordo com o ipo de lançamento
+
+** Dados de acesso ao banco de dados: Server: bcompany-homo.ddns.net,1441 / User: devtest / Pwd: Devtest02289!! / Databse: BC_TestCs **
+
+** Modelo de dados **
 
 ![DatabaseER](https://github.com/user-attachments/assets/19c2fada-a5a8-4266-b996-f2406320a710)
 
